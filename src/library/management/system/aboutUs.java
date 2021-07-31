@@ -37,12 +37,12 @@ public class aboutUs extends JFrame{
             l4.setBounds(185, 90, 405, 40);
             contentPane.add(l4);
 
-            JLabel l6 = new JLabel("Developed By : GROUP-12");
+            JLabel l6 = new JLabel("Developed By : GROUP-11");
             l6.setFont(new Font("Trebuchet MS", Font.BOLD, 30));
             l6.setBounds(135, 198, 600, 35);
             contentPane.add(l6);
 
-            JLabel l7 = new JLabel("Contact Us : sundusrani01234@gmail.com");
+            JLabel l7 = new JLabel("Contact Us : mubashir01234@gmail.com");
             l7.setFont(new Font("Trebuchet MS", Font.BOLD, 20));
             l7.setBounds(135, 260, 600, 34);
             contentPane.add(l7);
