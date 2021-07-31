@@ -86,7 +86,7 @@ where ```this-is-you``` is your GitHub username. Here you're copying the content
 ![installing NetBeans 7](https://www.tutorials24x7.com/uploads/2021-03-10/files/12-install-netbeans-12-for-java-on-windows-10-installation-success.png)
 
 
-Now click the Finish Button to close the installer.
+9. Now click the Finish Button to close the installer.
 
 
 **Step 3** Next we install WampServer for database to store data.
