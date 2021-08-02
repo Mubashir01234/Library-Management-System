@@ -128,7 +128,34 @@ where ```this-is-you``` is your GitHub username. Here you're copying the content
 
 ![installing WampServer 7](https://mythemeshop.com/wp-content/uploads/2019/12/finish-installation.jpg)
 
+***Step 4*** In next step we open ```Apache NetBeans``` for run a project.
 
+![netbeans 1](images/1.png)
+
+1. After NetBeans open we go on ```File``` and select ```Open Project``` as shown below.
+
+![netbeans 2](images/2.png)
+
+
+2. And then select a project were you downloaded.
+
+![netbeans 3](images/3.png)
+
+
+3. After you open a project then select ```Library Management System``` and click on ```Run``` as shown below.
+
+![netbeans 4](images/4.png)
+
+
+4. After click on run button you project is run as shown below and click on ```START``` button.
+
+![netbeans 5](images/5.png)
+
+
+5. After pressing START button you see a Login page in which you enter your ```Username``` and ```Password``` as shown below.
+
+![netbeans 6](images/6.png)
+6. After Login your project run successfully.
 
 
 
